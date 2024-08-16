@@ -1,0 +1,3 @@
+pyrogram
+pytest
+pytest-asyncio
