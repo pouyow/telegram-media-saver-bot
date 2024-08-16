@@ -25,13 +25,13 @@ This project is a Telegram bot that allows users to save media from posts in Tel
 
 3. Set up your Telegram API credentials:
     - Obtain your `api_id` and `api_hash` from [my.telegram.org](https://my.telegram.org).
-    - Set these values in the `main.py` file.
+    - Set these values in the `project.py` file.
 
 ## Usage
 
 1. Start the bot by running:
     ```bash
-    python main.py
+    python project.py
     ```
 
 2. In Telegram, send a command to the bot in the following format to save a post:
